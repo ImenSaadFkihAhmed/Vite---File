@@ -1,0 +1,40 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: solid 1px #ccc;
+    padding: 50px;
+    margin-top: 120px;
+
+  }
+  form {
+    border: none;
+    
+  }
+  input {
+    border: none;
+    outline: none;
+    border-end-end-radius: 3%;
+  }
+label{
+  display: block;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+input{
+  width: 80%;
+  padding: 12px;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+span{
+  font-size: 1em;
+}
+form {
+    background-color: #15dac3;
+    padding: 70px;
+    margin-top: 120px;
+    
+  }
+ 

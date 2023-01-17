@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* center items horizontally */
+    align-items: center; /* center items vertically */
+    height: 100vh; 
+    background-color:#ded3d3	rgb(222, 211, 211) ;
+  }
+  
+  .dropdown {
+    background: linear-gradient(to right , #15dac3,	rgb(21, 218, 195));
+    min-width: 200px; /* Taille minimale pour la liste déroulante */
+    max-height: 300px; /* Taille maximale pour la liste déroulante */
+    padding: 8px;
+    border: none;
+    font-size: 50;
+    color: #445563	;
+    margin: 100px;
+    display: block;
+  
+  }
+  
